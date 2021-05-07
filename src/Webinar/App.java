@@ -9,7 +9,7 @@ public class App {
         Transport transport = new Transport();
         transport.publicType = "Transport";
         transport.protectedType = "eee";
-public class Object {
+//public class Object {
 
 }
 
@@ -23,4 +23,4 @@ public class Object {
 //        System.out.println(mazda.acceleration);
 
     }
-}
+
